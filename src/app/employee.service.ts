@@ -37,4 +37,4 @@ export class EmployeeService {
   }
 }
 
-// Just mirroring of backend
+// Just mirroring of the backend
